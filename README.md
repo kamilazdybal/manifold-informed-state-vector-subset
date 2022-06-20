@@ -11,7 +11,7 @@ The adequate choice of variables for PCA can have beneficial effects on the low-
 ### Our methodology
 
 <p align="center">
-  <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-2.png" width="700">
+  <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-2.png" width="900">
 </p>
 
 ## Reproducing paper results using Jupyter notebooks
