@@ -56,22 +56,30 @@ This [Jupyter notebook](code/paper-Figure-4-selecting-minor-species-demo.ipynb) 
 
 This [Jupyter notebook](code/paper-Figure-5-scalings-and-subsetting-ranking.ipynb) can be used to generate **Figure 5**:
 
-
+<p align="center">
+  <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-5.png" width="700">
+</p>
 
 ### 📄 **Figure 6**
 
 This [Jupyter notebook](code/paper-Figure-6-scalings-and-subsetting-ranking-across-dimensionality.ipynb) can be used to generate **Figure 6**:
 
-
+<p align="center">
+  <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-6.png" width="700">
+</p>
 
 ### 📄 **Figure 7**
 
 This [Jupyter notebook](code/paper-Figure-7-regression-correlation-SYNGAS.ipynb) can be used to generate **Figure 7**:
 
-
+<p align="center">
+  <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-7.png" width="300">
+</p>
 
 ### 📄 **Figure 8**
 
 This [Jupyter notebook](code/paper-Figure-8-kernel-regression-of-all-variables.ipynb) can be used to generate **Figure 8**:
 
-
+<p align="center">
+  <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-8.png" width="300">
+</p>
