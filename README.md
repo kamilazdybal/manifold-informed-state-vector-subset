@@ -78,7 +78,7 @@ This [Jupyter notebook](code/paper-Figure-7-regression-correlation-SYNGAS.ipynb)
 
 ### 📄 **Figure 8**
 
-This [Jupyter notebook](code/paper-Figure-8-kernel-regression-of-all-variables.ipynb) can be used to generate **Figure 8**:
+This [Jupyter notebook](code/paper-Figure-8-kernel-regression-of-all-variables.ipynb) can be used to generate **Figure 8** (and the analogous supplementary figures):
 
 <p align="center">
   <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-8.png" width="300">
