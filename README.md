@@ -30,7 +30,7 @@ This [Jupyter notebook](code/paper-Figure-1-X-vs-XS-demo.ipynb) can be used to g
 
 ### 📄 **Figure 2**
 
-This [Jupyter notebook](code/paper-Figure-2-backward-variable-selection-algorithm-explanation.ipynb) can be used to generate the middle frame in **Figure 2**:
+This [Jupyter notebook](code/paper-Figure-2-manifold-informed-backward-elimination-algorithm.ipynb) can be used to generate the middle frame in **Figure 2**:
 
 <p align="center">
   <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-2.png" width="700">
