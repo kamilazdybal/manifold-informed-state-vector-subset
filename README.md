@@ -14,6 +14,10 @@ The adequate choice of variables for PCA can have beneficial effects on the low-
   <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-2.png" width="900">
 </p>
 
+## Data availability
+
+All datasets used in the current work are provided in the [`data-sets`](data-sets/) directory. The datasets have been generated with the open-source [Spifire](https://spitfire.readthedocs.io/en/latest/) Python library.
+
 ## Reproducing paper results using Jupyter notebooks
 
 All code used to produce the results in the original publication and in the supplementary material can be found in the Jupyter notebooks provided in the [`code`](code/) directory. [`PCAfold`](https://pcafold.readthedocs.io/en/latest/index.html) library is required.
