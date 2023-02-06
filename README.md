@@ -1,3 +1,5 @@
+This repository is licensed under: [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 # Manifold-informed state vector subset for reduced-order modeling
 
 This repository contains code and materials to reproduce the results from the "*Manifold-informed state vector subset for reduced-order modeling*" paper.
