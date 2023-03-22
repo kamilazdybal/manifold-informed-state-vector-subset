@@ -4,7 +4,7 @@ This repository is licensed under: [![License: CC BY-NC 4.0](https://img.shields
 
 This repository contains code and materials to reproduce the results from the "*Manifold-informed state vector subset for reduced-order modeling*" paper.
 
-> [K. Zdybał, J. C. Sutherland, A. Parente - *Manifold-informed state vector subset for reduced-order modeling*, 2022, Proceedings of the Combustion Institute](https://authors.elsevier.com/a/1fPcv5UKsGBnCP)
+> [K. Zdybał, J. C. Sutherland, A. Parente - *Manifold-informed state vector subset for reduced-order modeling*, 2022, Proceedings of the Combustion Institute](https://www.sciencedirect.com/science/article/pii/S1540748922000153)
 
 ### Our hypothesis
 
