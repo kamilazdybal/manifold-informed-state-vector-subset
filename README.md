@@ -6,6 +6,8 @@ This repository contains code and materials to reproduce the results from the "*
 
 > [K. Zdybał, J. C. Sutherland, A. Parente - *Manifold-informed state vector subset for reduced-order modeling*, 2022, Proceedings of the Combustion Institute](https://www.sciencedirect.com/science/article/pii/S1540748922000153)
 
+**This paper has received the [Distinguished Paper Award](https://www.combustioninstitute.org/resources/awards/distinguished-papers/) from The Combustion Institute.**
+
 ### Our hypothesis
 
 The adequate choice of variables for PCA can have beneficial effects on the low-dimensional manifold topology.
