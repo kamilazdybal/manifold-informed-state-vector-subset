@@ -68,7 +68,7 @@ This [Jupyter notebook](code/paper-Figure-5-scalings-and-subsetting-ranking.ipyn
 
 ### 📄 **Figure 6**
 
-This [Jupyter notebook](code/paper-Figure-6-scalings-and-subsetting-ranking-across-dimensionality.ipynb) can be used to generate **Figure 6**:
+This [Jupyter notebook](code/paper-Figure-6-scaling-and-subsetting-ranking-across-dimensionality.ipynb) can be used to generate **Figure 6**:
 
 <p align="center">
   <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-6.png" width="700">
