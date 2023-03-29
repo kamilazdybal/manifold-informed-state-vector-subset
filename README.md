@@ -62,13 +62,17 @@ This [Jupyter notebook](code/paper-Figure-4-selecting-minor-species-demo.ipynb) 
 
 ### 📄 **Figure 5**
 
-This [Jupyter notebook](code/paper-Figure-5-scalings-and-subsetting-ranking.ipynb) can be used to generate **Figure 5**:
+This [Python script](scripts/RUN-scaling-and-subsetting-ranking.py) can be used to produce results for **Figure 5**.
+
+This [Jupyter notebook](code/paper-Figure-5-scaling-and-subsetting-ranking.ipynb) can be used to generate **Figure 5**:
 
 <p align="center">
   <img src="https://github.com/kamilazdybal/manifold-informed-state-vector-subset/raw/main/figures/Figure-5.png" width="700">
 </p>
 
 ### 📄 **Figure 6**
+
+This [Python script](scripts/RUN-scaling-and-subsetting-ranking-across-dimensionality.py) can be used to produce results for **Figure 6**.
 
 This [Jupyter notebook](code/paper-Figure-6-scaling-and-subsetting-ranking-across-dimensionality.ipynb) can be used to generate **Figure 6**:
 
